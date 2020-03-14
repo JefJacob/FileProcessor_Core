@@ -1,0 +1,6 @@
+2020-03-14 04:16:49.1566  INFO    - Program - Application Started 
+2020-03-14 04:17:19.8605  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 04:17:20.0557  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-14 04:17:23.1707  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 04:17:23.4116 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 04:17:23.4116  INFO    - Program - Application Completed 

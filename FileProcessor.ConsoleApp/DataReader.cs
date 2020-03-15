@@ -32,7 +32,7 @@ namespace FileProcessor.ConsoleApp
 
                 OdbcConnectionStringBuilder builder =
             new OdbcConnectionStringBuilder();
-                builder.Driver = "Microsoft Access Driver (*.mdb)";
+                builder.Driver = "Microsoft Access Driver (*.mdb, *.accdb)";
                 builder.Add("DBQ", file);
                 //Console.WriteLine(builder.ConnectionString);
                 logger.Info(builder.ConnectionString);
@@ -48,7 +48,6 @@ namespace FileProcessor.ConsoleApp
                     }
                     else
                     {
-                        Console.WriteLine("Competition does not exist. Please create new Competition");
                         logger.Error("Competition does not exist. Please create new Competition");
                     }
 
@@ -64,13 +63,14 @@ namespace FileProcessor.ConsoleApp
             logger.Info("Application has started Reading Access DB");
             //Club data 
             string queryStringClub = "SELECT * FROM Team";
-
-            using (OdbcConnection connection = new OdbcConnection(connectionString))
+            
+            using (var connection = new OdbcConnection(connectionString))
             {
-                OdbcCommand command = new OdbcCommand(queryStringClub, connection);
+                var command = new OdbcCommand(queryStringClub, connection);
                 connection.Open();
                 // Execute the DataReader and access the data.
-                OdbcDataReader reader = command.ExecuteReader();
+                var reader = command.ExecuteReader();
+
                 DataTransfer.ProcessClubData(reader);
                 // Call Close when done reading.
                 reader.Close();

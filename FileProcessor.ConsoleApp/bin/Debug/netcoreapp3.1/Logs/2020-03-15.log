@@ -1,0 +1,33 @@
+2020-03-15 00:18:00.5744  INFO    - Program - Application Started 
+2020-03-15 00:18:05.0037  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-15 00:18:11.9797  INFO    - Program - Application Completed 
+2020-03-15 00:18:53.4437  INFO    - Program - Application Started 
+2020-03-15 00:18:55.9270  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-15 00:19:02.9336  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-15 00:19:05.9786  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-15 00:19:25.5264  INFO    - DataTransfer - Started Processing Club Details 
+2020-03-15 00:27:07.6289  INFO    - Program - Application Started 
+2020-03-15 00:27:15.8832  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-15 00:27:25.0273  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-15 00:27:26.3834  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-15 00:27:33.3703  INFO    - DataTransfer - Started Processing Club Details 
+2020-03-15 00:29:20.0409  INFO    - Program - Application Started 
+2020-03-15 00:29:21.9569  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-15 00:29:27.4032  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-15 00:29:29.8455  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-15 00:29:35.9119  INFO    - DataTransfer - Started Processing Club Details 
+2020-03-15 00:32:44.1210  INFO    - Program - Application Started 
+2020-03-15 00:32:48.2936  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-15 00:32:51.5088  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-15 00:32:53.0993  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-15 00:32:57.9932  INFO    - DataTransfer - Started Processing Club Details 
+2020-03-15 00:41:43.3528  INFO    - Program - Application Started 
+2020-03-15 00:41:46.3991  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-15 00:41:49.3443  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-15 00:41:50.4161  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-15 00:41:55.4287  INFO    - DataTransfer - Started Processing Club Details 
+2020-03-15 01:00:19.7855  INFO    - Program - Application Started 
+2020-03-15 01:00:22.2509  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-15 01:00:26.0222  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-15 01:00:26.1708  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-15 01:00:31.7185  INFO    - DataTransfer - Started Processing Club Details 

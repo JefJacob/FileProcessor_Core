@@ -1,0 +1,55 @@
+2020-03-14 08:19:08.3532  INFO    - Program - Application Started 
+2020-03-14 08:19:08.7093  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:19:08.9140  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-14 08:19:11.9066  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 08:19:12.0961 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 08:19:12.0961  INFO    - Program - Application Completed 
+2020-03-14 08:28:57.2878  INFO    - Program - Application Started 
+2020-03-14 08:28:57.6444  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:28:58.1307  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-14 08:29:01.8228  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 08:29:02.0965 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 08:29:02.0965  INFO    - Program - Application Completed 
+2020-03-14 08:33:27.0013  INFO    - Program - Application Started 
+2020-03-14 08:33:27.1747  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:33:27.3278  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb,*.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.accdb 
+2020-03-14 08:33:30.1652 ERROR    - DataReader - Competition does not exist. Please create new Competition 
+2020-03-14 08:33:30.1652  INFO    - Program - Application Completed 
+2020-03-14 08:35:25.4201  INFO    - Program - Application Started 
+2020-03-14 08:35:25.6692  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:35:25.9243  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb,*.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.accdb 
+2020-03-14 08:35:28.9761  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 08:35:29.1520 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 08:35:29.1520  INFO    - Program - Application Completed 
+2020-03-14 08:39:22.6341  INFO    - Program - Application Started 
+2020-03-14 08:39:23.6641  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:39:23.8312  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb,*.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.accdb 
+2020-03-14 08:39:26.5771  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 08:39:26.8118 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 08:39:26.8118  INFO    - Program - Application Completed 
+2020-03-14 08:41:12.8514  INFO    - Program - Application Started 
+2020-03-14 08:41:13.0035  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:41:13.1709  INFO    - DataReader - Driver={Microsoft Access Driver (*.accdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.accdb 
+2020-03-14 08:41:16.2708  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 08:41:16.4762 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 08:41:16.4762  INFO    - Program - Application Completed 
+2020-03-14 08:42:55.9914  INFO    - Program - Application Started 
+2020-03-14 08:42:56.1964  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:42:56.1964  INFO    - Program - Application Completed 
+2020-03-14 08:55:05.8812  INFO    - Program - Application Started 
+2020-03-14 08:55:06.1702  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 08:55:06.4072  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-14 08:55:09.3203  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 08:55:09.4890 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 08:55:09.4890  INFO    - Program - Application Completed 
+2020-03-14 09:02:22.5480  INFO    - Program - Application Started 
+2020-03-14 09:02:22.7597  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 09:02:22.9343  INFO    - DataReader - Driver={Microsoft Access Driver (*.mdb)};DBQ=J:\Courses\Capstone\FileUpload\Source\InputFiles\GenericData-Athletics Ontario Outdoor Championship Series #3- U20 - Open Championships-12Jul2019-002.mdb 
+2020-03-14 09:02:25.6270  INFO    - DataReader - Application has started Reading Access DB 
+2020-03-14 09:02:25.7765 ERROR    - DataReader - Exception : ERROR [IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+2020-03-14 09:02:25.7765  INFO    - Program - Application Completed 
+2020-03-14 14:34:33.8837  INFO    - Program - Application Started 
+2020-03-14 14:34:34.9718  INFO    - DataReader - Application Started | ProcessFile 
+2020-03-14 14:34:34.9718  INFO    - Program - Application Completed 
+2020-03-14 14:35:51.9671  INFO    - Program - Application Started 
+2020-03-14 14:35:58.2685  INFO    - DataReader - Application Started | ProcessFile 
